@@ -1,4 +1,4 @@
-# PowerBi_dashboard_Project
+# CreditCard_Transaction_dashboard_Project
  Credit Card Transaction Analysis Dashboard – Power BI 📊
 
 I recently built this interactive dashboard to analyze key performance metrics from credit card transactions, including revenue generation, transaction amounts, customer segmentation, and card usage behavior.
